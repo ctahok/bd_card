@@ -1,11 +1,9 @@
-/*
-@author vinitshahdeo
-*/
-#include<stdio.h>
-main(){
-char str[]="Ibqqz!Cjsuiebz",*p;
-p=str;
-while(*p!='\0')
-    --*p++;
-printf("%s",str);
+var u=0, age>1;
+
+while(true) {
+if (u==age){
+aler ('Happy Birthday!');
+break;
+}
+else{ u+=1;}
 }
